@@ -1,5 +1,5 @@
 # PIDrone
-This project is a quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 2 B.
+A quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 2 B.
 
 ## How does it work? 
 The Multiwii controller looks after my 4 motors and distributes power to supply them. The Rasberry Pi collects the information who came from the smartphone and relay them to the Multiwii. 
