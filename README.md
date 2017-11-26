@@ -1,7 +1,7 @@
 # PIDrone
 This project is a quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 2 B.
 
-##Hardware
+## Hardware
 <ul>
   <li>A frame</li>
   <li>4x TURNIGY D3530/14 1100KV BRUSHLESS OUTRUNNER MOTOR</li>
@@ -16,10 +16,10 @@ This project is a quadcopter powered by a Multiwii flight controller and are con
 
 Recommending https://hobbyking.com for bying the parts.
 
-##How does it work? 
+## How does it work? 
 The Multiwii controller looks after my 4 motors and distributes power to supply them. The Rasberry Pi collects the information who came from the smartphone and relay them to the Multiwii. 
 
-##Installation
+## Installation
 I will not cover the installation of the hardware installation of the quadcopter, just the software installation on the Rasberry Pi.
 
 --installation guide goes here. 
