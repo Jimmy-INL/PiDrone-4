@@ -2,6 +2,9 @@
 This project is a quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 2 B.
 
 ##Hardware
+<ul>
+ <li>dsadsa</li>
+ </ul>
  - A frame
  - 4x TURNIGY D3530/14 1100KV BRUSHLESS OUTRUNNER MOTOR
  - HOBBYKING 30A ESC 3A UBEC
