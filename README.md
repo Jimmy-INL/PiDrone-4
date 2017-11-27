@@ -2,7 +2,7 @@
 A quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 2 B. The Rasberry Pi runs a Node.js application which controls the Multiwii flight controller. It also uses <a href="https://socket.io/">socket.io</a> to connect to the android app that functions as a remote control. 
 
 ## How does it work? 
-The Multiwii controller looks after the 4 motors and distributes power to supply them. The Rasberry Pi collects the information who came from the smartphone and relay them to the Multiwii. 
+The Multiwii controller looks after the 4 motors and distributes power to supply them. The Rasberry Pi collects the information that comes from the smartphone and relay them to the Multiwii. 
 
 ## Hardware
 <ul>
