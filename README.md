@@ -18,6 +18,6 @@ The Multiwii controller looks after the 4 motors and distributes power to supply
  </ul>
 
 ## Installation
-I will not cover the installation of the hardware installation of the quadcopter, just the software installation on the Rasberry Pi.
+I will not cover the hardware installation of the quadcopter, just the software installation on the Rasberry Pi.
 
 --installation guide goes here. 
