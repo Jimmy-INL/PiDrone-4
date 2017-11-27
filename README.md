@@ -14,7 +14,7 @@ The Multiwii controller looks after the 4 motors and distributes power to supply
   <li>HOBBY KING QUADCOPTER POWER DISTRIBUTION BOARD</li>
   <li>HOBBYKING SLOWFLY PROPELLER 10X4.5 BLUE (CW/CCW) (4PCS)</li>
   <li>HXT 4MM GOLD CONNECTOR W/ PROTECTOR (10PCS/SET)</li>
-  </li>CRIUS ALL IN ONE PRO v2.0 Multi Rotor Flight Controller Multiwii Megapirate APM</li>
+  <li>CRIUS ALL IN ONE PRO v2.0 Multi Rotor Flight Controller Multiwii Megapirate APM</li>
  </ul>
 
 ## Installation
