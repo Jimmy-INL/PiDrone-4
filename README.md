@@ -8,7 +8,7 @@ The Multiwii controller looks after the 4 motors and distributes power to supply
 <ul>
   <li>A frame</li>
   <li>4x TURNIGY D3530/14 1100KV BRUSHLESS OUTRUNNER MOTOR</li>
-  <li>HOBBYKING 30A ESC 3A UBEC</li>
+  <li>4x HOBBYKING 30A ESC 3A UBEC</li>
   <li>TURNIGY 3300MAH 3S 30C LIPO PACK W/XT-60</li>
   <li>HOBBY KING BATTERY MONITOR 2S (optional)</li>
   <li>HOBBY KING QUADCOPTER POWER DISTRIBUTION BOARD</li>
