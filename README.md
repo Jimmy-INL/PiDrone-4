@@ -1,4 +1,4 @@
-# PIDrone
+# PiDrone
 A quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 3 B. The Rasberry Pi runs a Node.js application which controls the Multiwii flight controller. It also uses <a href="https://socket.io/">socket.io</a> to connect to the android app that functions as a remote control. 
 
 ## How does it work? 
