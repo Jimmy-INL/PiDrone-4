@@ -1,8 +1,8 @@
 # PiDrone
-A quadcopter powered by a Multiwii flight controller and are controlled with a Rasberry Pi 3 B. The Rasberry Pi runs a Node.js application which controls the Multiwii flight controller. It also uses <a href="https://socket.io/">socket.io</a> to connect to the android app that functions as a remote control. 
+A quadcopter powered by a Multiwii flight controller and are controlled with a Raspberry Pi 3 B. The Raspberry Pi runs a Node.js application which controls the Multiwii flight controller. It also uses <a href="https://socket.io/">socket.io</a> to connect to the android app that functions as a remote control. 
 
 ## How does it work? 
-The Multiwii controller looks after the 4 motors and distributes power to supply them. The Rasberry Pi collects the information that comes from the smartphone and relay them to the Multiwii. 
+The Multiwii controller looks after the 4 motors and distributes power to supply them. The Raspberry Pi collects the information that comes from the smartphone and relay them to the Multiwii. 
 
 ## Hardware
 <ul>
@@ -19,6 +19,6 @@ The Multiwii controller looks after the 4 motors and distributes power to supply
  </ul>
 
 ## Installation
-I will not cover the hardware installation of the quadcopter, just the software installation on the Rasberry Pi.
+I will not cover the hardware installation of the quadcopter, just the software installation on the Raspberry Pi.
 
 --installation guide goes here. 
